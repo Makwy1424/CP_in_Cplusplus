@@ -1,0 +1,5 @@
+1.How to check if the ith bit is set or not.
+2.How to set the ith bit.
+3.Left and Right shift.
+4.counting number of set bits in a number using Right shift.
+5.Xor and its properties.
